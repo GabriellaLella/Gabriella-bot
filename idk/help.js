@@ -1,4 +1,4 @@
-const help = ( prefisso) => {
+const help = (prefix) => {
 
 	return `
 <══════════════════════>
