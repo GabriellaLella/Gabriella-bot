@@ -1,0 +1,11 @@
+# Directory delle dipendenze
+node_modules /
+
+# Directory cache npm opzionali
+.npm
+
+# file di blocco
+package-lock.json
+
+# file di sessioni
+BarBar.json
